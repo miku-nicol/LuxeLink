@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+#baby{
+ 
+  animation: sugar  20s infinite;
+
+}
+@keyframes sugar{
+  0%{background-image: url(./assets/img/stacks.jpg);}
+  33%{background-image: url(./assets/img/dark.jpg);}
+  66%{background-image: url(./assets/img/stacks2.jpg);}
+  100%{background-image: url(./assets/img/stacks.jpg);}
+}
+
