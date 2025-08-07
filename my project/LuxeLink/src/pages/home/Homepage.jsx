@@ -7,7 +7,7 @@ import Footer from '../footersec/Footer';
 import Signin from '../../pages/auth/Signin';
 import Signup from '../../pages/auth/Signup';
 import Nav from '../../components/nav/Nav';
-import Cart from '../../components/ui/cart';
+import Cart from '../../components/ui/Cart';
 import CartSidebar from '../../components/ui/cartside';
 
 
