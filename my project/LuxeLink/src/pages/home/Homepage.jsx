@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from 'react'
 import Hero from '../hero/hero';
-import ProductList from '../../components/ui/projuctlist';
+import ProductList from '../../components/ui/Productlist';
 import Service from '../our service/Service';
 import About from '../about/About';
 import Footer from '../footersec/Footer';
