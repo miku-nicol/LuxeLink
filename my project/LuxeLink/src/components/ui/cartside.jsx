@@ -1,5 +1,5 @@
 import React from 'react';
-import Cart from './';
+import Cart from './Cart';
 
 function CartSidebar({ isOpen, onClose, cart, removeFromCart,changeQuantity }) {
   return (
